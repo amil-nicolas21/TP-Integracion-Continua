@@ -5,6 +5,7 @@ automatizada. De esta manera, se pueden detectar y corregir errores rápidamente
 calidad del código y acelerar el proceso de entrega. La siguiente consigna tiene como objetivo 
 que  los  alumnos  apliquen  los  conceptos  y  herramientas  de  la  integración  continua  en  un 
 proyecto de software. Para ello, se les pide que: 
+
 ●  Para  aprobar  se  debe  crear  un  entorno  de  IC  configurando  los componentes básicos 
 que se han dado en teoría: 1 repositorio de código, 1 servidor de IC, 1 entorno para los 
 desarrolladores incluyendo una build local, 1 prueba automatizada.  
