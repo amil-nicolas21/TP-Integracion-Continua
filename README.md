@@ -18,7 +18,6 @@ vuelva  a  integrar  cambios  y  eso  consiga  el  despliegue  en  el  entorno  
 finalmente se ejecute el código en el entorno de entrega. 
 ●  En la demo mostrar la imagen de componentes de IC con los logos de las herramientas 
 desplegadas. 
- 
 ●  Por  último,  se  debe  elaborar  un  informe  donde  describan  el  proceso  seguido  para 
 implementar  la  integración  continua,  los  problemas  encontrados  y  las  soluciones 
 aplicadas,  y  las ventajas e inconvenientes de esta práctica. El informe debe tener una 
